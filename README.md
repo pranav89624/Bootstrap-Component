@@ -4,11 +4,11 @@ It is a modern web application built with HTML, CSS, and Bootstrap components. T
 Features :
 <pre>
   > Responsive Layout: 
-      Utilizes Bootstrap’s grid system to ensure a fluid and adaptable design that looks great on all devices.
+      Utilizes Bootstrap’s grid system to ensure a fluid and adaptable design that looks great on all devices.<br>
   > Bootstrap Components:
-      Incorporates a variety of Bootstrap components, such as navigation bars, cards, modals, and buttons,<br>      to enhance the user experience.
+      Incorporates a variety of Bootstrap components, such as navigation bars, cards, modals, and buttons,<br>      to enhance the user experience.<br>
   > Interactive Elements:
-      Leverages Bootstrap’s JavaScript plugins for interactive features like carousels, navbars, and more.
+      Leverages Bootstrap’s JavaScript plugins for interactive features like carousels, navbars, and more.<br>
 </pre>
 <br>
 Usage : 
