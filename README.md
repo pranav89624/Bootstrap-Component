@@ -1,7 +1,7 @@
 # Bootstrap-Component
 It is a modern web application built with HTML, CSS, and Bootstrap components. This project demonstrates the use of Bootstrap’s powerful components and responsive grid system to create a visually appealing and functional user interface.
 <br><br>
-Features : <br>
+Features :
 <pre>
   > Responsive Layout: 
       Utilizes Bootstrap’s grid system to ensure a fluid and adaptable design that looks great on all devices.
